@@ -1,4 +1,5 @@
-## Welcome to GitHub Games
+## Hello everyone , 
+## Welcome to awesome game of Tetris
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
